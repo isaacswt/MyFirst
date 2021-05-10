@@ -1,0 +1,26 @@
+
+		.green {
+			color: green;
+		}
+		#section1 {
+			color: orange;
+		}
+		#lists
+		{
+			color: blue;
+		}
+		a
+		{
+			text-decoration: none;
+			margin-left: 10px;
+			text-align: center;
+		}
+		a:hover, a:active
+		{
+			background-color: purple;	
+		}
+		
+		ul a 
+		{
+			color: red
+		}
